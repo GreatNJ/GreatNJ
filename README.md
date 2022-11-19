@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Great😁. Great Nwankire-Jonathan.
+- 👋 Hi, I’m Great. Great Nwankire-Jonathan.
 - 👀 I’m interested in building stuff; from AI and AR to mechanical engineering solutions. Oh, I love music too!
 - 🌱 I’m currently learning Software Engineering 🤷‍♂️.
 - 💞️ I’m looking to collaborate on viable solutions. Both soft and hardware solutions.
